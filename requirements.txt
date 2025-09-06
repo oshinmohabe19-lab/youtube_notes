@@ -1,0 +1,7 @@
+gradio>=4.0.0
+transformers
+torch
+sentencepiece
+openai-whisper
+yt-dlp>=2024.8.6
+youtube-transcript-api
